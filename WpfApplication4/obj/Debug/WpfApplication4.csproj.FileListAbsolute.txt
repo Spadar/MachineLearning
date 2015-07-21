@@ -1,0 +1,1 @@
+c:\users\group a\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config

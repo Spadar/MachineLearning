@@ -1,0 +1,3 @@
+[Insertion Rate] = 0.05
+[Deletion Rate] = 0.05
+[Mutation Rate] = 0.05

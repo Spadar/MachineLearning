@@ -1,0 +1,120 @@
+c:\users\group a\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+c:\users\group a\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+c:\users\group a\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+c:\users\group a\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\MachineLearningTest.csprojResolveAssemblyReference.cache
+c:\users\group a\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+c:\users\group a\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+c:\users\group a\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+c:\users\group a\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+c:\users\group a\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+c:\users\group a\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+c:\users\group a\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\MachineLearningTest.csproj.GenerateResource.Cache
+c:\users\group a\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+c:\users\group a\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\SNHU Student\Desktop\MachineLearning\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\SNHU Student\Desktop\MachineLearning\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\SNHU Student\Desktop\MachineLearning\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\SNHU Student\Desktop\MachineLearning\WpfApplication4\obj\Debug\MachineLearningTest.csprojResolveAssemblyReference.cache
+C:\Users\SNHU Student\Desktop\MachineLearning\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\SNHU Student\Desktop\MachineLearning\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\SNHU Student\Desktop\MachineLearning\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\SNHU Student\Desktop\MachineLearning\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\SNHU Student\Desktop\MachineLearning\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\SNHU Student\Desktop\MachineLearning\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\SNHU Student\Desktop\MachineLearning\WpfApplication4\obj\Debug\MachineLearningTest.csproj.GenerateResource.Cache
+C:\Users\SNHU Student\Desktop\MachineLearning\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\SNHU Student\Desktop\MachineLearning\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\Group A\Desktop\MachineLearning\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\Group A\Desktop\MachineLearning\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\Group A\Desktop\MachineLearning\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\Group A\Desktop\MachineLearning\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\Group A\Desktop\MachineLearning\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\Group A\Desktop\MachineLearning\WpfApplication4\obj\Debug\MachineLearningTest.csprojResolveAssemblyReference.cache
+C:\Users\Group A\Desktop\MachineLearning\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\Group A\Desktop\MachineLearning\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\Group A\Desktop\MachineLearning\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\Group A\Desktop\MachineLearning\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\Group A\Desktop\MachineLearning\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\Group A\Desktop\MachineLearning\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\Group A\Desktop\MachineLearning\WpfApplication4\obj\Debug\MachineLearningTest.csproj.GenerateResource.Cache
+C:\Users\Jeffery\Desktop\MachineLearning\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\Jeffery\Desktop\MachineLearning\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\Jeffery\Desktop\MachineLearning\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\Jeffery\Desktop\MachineLearning\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\Jeffery\Desktop\MachineLearning\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\Jeffery\Desktop\MachineLearning\WpfApplication4\obj\Debug\MachineLearningTest.csprojResolveAssemblyReference.cache
+C:\Users\Jeffery\Desktop\MachineLearning\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\Jeffery\Desktop\MachineLearning\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\Jeffery\Desktop\MachineLearning\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\Jeffery\Desktop\MachineLearning\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\Jeffery\Desktop\MachineLearning\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\Jeffery\Desktop\MachineLearning\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\Jeffery\Desktop\MachineLearning\WpfApplication4\obj\Debug\MachineLearningTest.csproj.GenerateResource.Cache
+C:\Users\Group A\Desktop\MachineLearning (1)\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\Group A\Desktop\MachineLearning (1)\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\Group A\Desktop\MachineLearning (1)\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\Group A\Desktop\MachineLearning (1)\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\Group A\Desktop\MachineLearning (1)\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\Group A\Desktop\MachineLearning (1)\WpfApplication4\obj\Debug\MachineLearningTest.csprojResolveAssemblyReference.cache
+C:\Users\Group A\Desktop\MachineLearning (1)\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\Group A\Desktop\MachineLearning (1)\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\Group A\Desktop\MachineLearning (1)\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\Group A\Desktop\MachineLearning (1)\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\Group A\Desktop\MachineLearning (1)\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\Group A\Desktop\MachineLearning (1)\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\Group A\Desktop\MachineLearning (1)\WpfApplication4\obj\Debug\MachineLearningTest.csproj.GenerateResource.Cache
+C:\Users\Group A\Desktop\MachineLearning (2)\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\Group A\Desktop\MachineLearning (2)\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\Group A\Desktop\MachineLearning (2)\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\Group A\Desktop\MachineLearning (2)\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\Group A\Desktop\MachineLearning (2)\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\Group A\Desktop\MachineLearning (2)\WpfApplication4\obj\Debug\MachineLearningTest.csprojResolveAssemblyReference.cache
+C:\Users\Group A\Desktop\MachineLearning (2)\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\Group A\Desktop\MachineLearning (2)\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\Group A\Desktop\MachineLearning (2)\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\Group A\Desktop\MachineLearning (2)\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\Group A\Desktop\MachineLearning (2)\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\Group A\Desktop\MachineLearning (2)\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\Group A\Desktop\MachineLearning (2)\WpfApplication4\obj\Debug\MachineLearningTest.csproj.GenerateResource.Cache
+C:\Users\Jeffery\Desktop\MachineLearning (3)\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\Jeffery\Desktop\MachineLearning (3)\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\Jeffery\Desktop\MachineLearning (3)\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\Jeffery\Desktop\MachineLearning (3)\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\Jeffery\Desktop\MachineLearning (3)\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\Jeffery\Desktop\MachineLearning (3)\WpfApplication4\obj\Debug\MachineLearningTest.csprojResolveAssemblyReference.cache
+C:\Users\Jeffery\Desktop\MachineLearning (3)\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\Jeffery\Desktop\MachineLearning (3)\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\Jeffery\Desktop\MachineLearning (3)\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\Jeffery\Desktop\MachineLearning (3)\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\Jeffery\Desktop\MachineLearning (3)\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\Jeffery\Desktop\MachineLearning (3)\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\Jeffery\Desktop\MachineLearning (3)\WpfApplication4\obj\Debug\MachineLearningTest.csproj.GenerateResource.Cache
+C:\Users\Group A\Desktop\MachineLearning (3)\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\Group A\Desktop\MachineLearning (3)\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\Group A\Desktop\MachineLearning (3)\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\Jeffery\Desktop\MachineLearning (5)\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\Jeffery\Desktop\MachineLearning (5)\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\Jeffery\Desktop\MachineLearning (5)\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\Jeffery\Desktop\MachineLearning (5)\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\Jeffery\Desktop\MachineLearning (5)\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\Jeffery\Desktop\MachineLearning (5)\WpfApplication4\obj\Debug\MachineLearningTest.csprojResolveAssemblyReference.cache
+C:\Users\Jeffery\Desktop\MachineLearning (5)\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\Jeffery\Desktop\MachineLearning (5)\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\Jeffery\Desktop\MachineLearning (5)\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\Jeffery\Desktop\MachineLearning (5)\WpfApplication4\obj\Debug\MachineLearningTest.csproj.GenerateResource.Cache
+C:\Users\Jeffery\Desktop\MachineLearning (5)\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\Jeffery\Desktop\MachineLearning (5)\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\Jeffery\Desktop\MachineLearning (5)\WpfApplication4\obj\Debug\App.g.cs
+A:\Google Drive\MachineLearning (5)\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+A:\Google Drive\MachineLearning (5)\WpfApplication4\obj\Debug\WpfApplication4.exe
+A:\Google Drive\MachineLearning (5)\WpfApplication4\obj\Debug\WpfApplication4.pdb
+A:\Google Drive\MachineLearning (5)\WpfApplication4\bin\Debug\WpfApplication4.exe
+A:\Google Drive\MachineLearning (5)\WpfApplication4\bin\Debug\WpfApplication4.pdb
+A:\Google Drive\MachineLearning (5)\WpfApplication4\obj\Debug\MachineLearningTest.csprojResolveAssemblyReference.cache
+A:\Google Drive\MachineLearning (5)\WpfApplication4\obj\Debug\MainWindow.baml
+A:\Google Drive\MachineLearning (5)\WpfApplication4\obj\Debug\MainWindow.g.cs
+A:\Google Drive\MachineLearning (5)\WpfApplication4\obj\Debug\App.g.cs
+A:\Google Drive\MachineLearning (5)\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+A:\Google Drive\MachineLearning (5)\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+A:\Google Drive\MachineLearning (5)\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+A:\Google Drive\MachineLearning (5)\WpfApplication4\obj\Debug\MachineLearningTest.csproj.GenerateResource.Cache
